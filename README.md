@@ -121,6 +121,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn pydrive
 These insights suggest the bank could focus retention efforts on older customers, those in Germany, and those with higher balances, while encouraging active membership.
 
 
+| Unsupervised Learning project
 
 
 # 2. Unsupervised Learning: Document Clustering and Topic Modeling
